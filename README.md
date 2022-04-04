@@ -1,5 +1,6 @@
 # Desafio_7DaysOfCode
-Página de contratação da empresa fictícia OptimusTech
+
+Objetivo do desafio > Criar o uma página de contratação da empresa fictícia OptimusTech com layout já pronto do figma, a idéia é colocar em prática os conhecimentos de HTML e CSS
 
 ##
 
