@@ -4,3 +4,8 @@ body {
   font: Arial, Sans-serif;
   font-size: 30px;
 }
+
+.menu { 
+  display: flex;
+  justify-content: space-between;
+}
