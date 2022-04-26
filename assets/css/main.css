@@ -79,3 +79,20 @@ button.signUp {
   align-items: center;
   gap: 1rem; 
 }
+
+.about-us span {
+  color: var(--main-color);
+}
+
+.about-us h1 {
+  font-size: 2rem;
+  color: var (--title-color);
+}
+
+.about-us p {
+  color: var(--text-color);
+  max-width: 50%;
+  text-align: center;
+  line-height: 1.5rem;
+}
+
